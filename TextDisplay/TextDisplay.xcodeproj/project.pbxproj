@@ -15,6 +15,7 @@
 		375025F11E35B1A3000904B2 /* TextDisplayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 375025F01E35B1A3000904B2 /* TextDisplayTests.swift */; };
 		375025FC1E35B1A3000904B2 /* TextDisplayUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 375025FB1E35B1A3000904B2 /* TextDisplayUITests.swift */; };
 		3750260E1E35CE49000904B2 /* FNBlingBlingLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3750260D1E35CE49000904B2 /* FNBlingBlingLabel.swift */; };
+		375026121E35D96B000904B2 /* TextDisplay.gif in Resources */ = {isa = PBXBuildFile; fileRef = 375026111E35D96B000904B2 /* TextDisplay.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		375025FB1E35B1A3000904B2 /* TextDisplayUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextDisplayUITests.swift; sourceTree = "<group>"; };
 		375025FD1E35B1A3000904B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3750260D1E35CE49000904B2 /* FNBlingBlingLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FNBlingBlingLabel.swift; sourceTree = "<group>"; };
+		375026111E35D96B000904B2 /* TextDisplay.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = TextDisplay.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		375025CF1E35B1A2000904B2 = {
 			isa = PBXGroup;
 			children = (
+				375026111E35D96B000904B2 /* TextDisplay.gif */,
 				375025DA1E35B1A3000904B2 /* TextDisplay */,
 				375025EF1E35B1A3000904B2 /* TextDisplayTests */,
 				375025FA1E35B1A3000904B2 /* TextDisplayUITests */,
@@ -243,6 +246,7 @@
 				375025E61E35B1A3000904B2 /* LaunchScreen.storyboard in Resources */,
 				375025E31E35B1A3000904B2 /* Assets.xcassets in Resources */,
 				375025E11E35B1A3000904B2 /* Main.storyboard in Resources */,
+				375026121E35D96B000904B2 /* TextDisplay.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
