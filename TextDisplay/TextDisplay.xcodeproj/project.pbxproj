@@ -14,6 +14,7 @@
 		375025E61E35B1A3000904B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 375025E41E35B1A3000904B2 /* LaunchScreen.storyboard */; };
 		375025F11E35B1A3000904B2 /* TextDisplayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 375025F01E35B1A3000904B2 /* TextDisplayTests.swift */; };
 		375025FC1E35B1A3000904B2 /* TextDisplayUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 375025FB1E35B1A3000904B2 /* TextDisplayUITests.swift */; };
+		3750260B1E35B5CB000904B2 /* FNBlingBlingLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3750260A1E35B5CB000904B2 /* FNBlingBlingLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		375025F71E35B1A3000904B2 /* TextDisplayUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TextDisplayUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		375025FB1E35B1A3000904B2 /* TextDisplayUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextDisplayUITests.swift; sourceTree = "<group>"; };
 		375025FD1E35B1A3000904B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3750260A1E35B5CB000904B2 /* FNBlingBlingLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FNBlingBlingLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 		375025DA1E35B1A3000904B2 /* TextDisplay */ = {
 			isa = PBXGroup;
 			children = (
+				375026091E35B5CB000904B2 /* FNBlingBlingLabel */,
 				375025DB1E35B1A3000904B2 /* AppDelegate.swift */,
 				375025DD1E35B1A3000904B2 /* ViewController.swift */,
 				375025DF1E35B1A3000904B2 /* Main.storyboard */,
@@ -123,6 +126,14 @@
 				375025FD1E35B1A3000904B2 /* Info.plist */,
 			);
 			path = TextDisplayUITests;
+			sourceTree = "<group>";
+		};
+		375026091E35B5CB000904B2 /* FNBlingBlingLabel */ = {
+			isa = PBXGroup;
+			children = (
+				3750260A1E35B5CB000904B2 /* FNBlingBlingLabel.swift */,
+			);
+			path = FNBlingBlingLabel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -256,6 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3750260B1E35B5CB000904B2 /* FNBlingBlingLabel.swift in Sources */,
 				375025DE1E35B1A3000904B2 /* ViewController.swift in Sources */,
 				375025DC1E35B1A3000904B2 /* AppDelegate.swift in Sources */,
 			);
