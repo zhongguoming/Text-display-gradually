@@ -1,5 +1,5 @@
 # Text-display-gradually
-文字渐渐显示，就是文字从左往右依次显示，效果就像是一行一行从上往下显示。
+文字渐渐显示，文字渐变，就是文字从左往右依次显示，效果就像是一行一行从上往下显示。
 基础使用Demo：
 
     let blingBlingLabel = FNBlingBlingLabel.init(frame: CGRectMake(0, 0, 300, 200))
