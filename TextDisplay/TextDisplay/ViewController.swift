@@ -10,7 +10,6 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    
 
     var blingBlingLabel:FNBlingBlingLabel!
     let textArray = ["      轻轻的我走了，\n      正如我轻轻的来；\n      我轻轻的招手，\n      作别西天的云彩。",
@@ -21,6 +20,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("123")
         view.backgroundColor = UIColor.init(red: 42/255.0, green: 49/255.0, blue: 67/255.0, alpha: 1)
         
         blingBlingLabel = FNBlingBlingLabel.init(frame: CGRectMake(0, 0, 300, 200))
