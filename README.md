@@ -11,5 +11,5 @@
     self.view.addSubview(blingBlingLabel)
     blingBlingLabel.text = "FNBlingBlingLabel-TestString
     
-借用大神，只是简单修改下：   
-    "Fnoz/FNBlingBlingLabel
+借用大神"Fnoz/FNBlingBlingLabel，只是简单修改下适合自己的需求   
+    
