@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+
     var blingBlingLabel:FNBlingBlingLabel!
     let textArray = ["      轻轻的我走了，\n      正如我轻轻的来；\n      我轻轻的招手，\n      作别西天的云彩。",
                      "Very quietly I take my leave, \nAs quietly as I came here; \nQuietly I wave good-bye, \nTo the rosy clouds in the western sky.",
@@ -38,7 +40,5 @@ class ViewController: UIViewController {
     func changeText() {
         blingBlingLabel?.text = textArray[(i++)%textArray.count]
     }
-
-
 }
 

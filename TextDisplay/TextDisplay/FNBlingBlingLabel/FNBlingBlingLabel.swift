@@ -101,6 +101,7 @@ public class FNBlingBlingLabel: UILabel{
     override init(frame: CGRect) {
         super.init(frame: frame)
         initVariable()
+        
     }
     
     required public init?(coder aDecoder: NSCoder) {
