@@ -13,4 +13,4 @@
     
 借用大神"Fnoz/FNBlingBlingLabel，只是简单修改下适合自己的需求   
  
-![image](https://github.com/zhongguoming/TextDisplay/blob/master/TextDisplay.gif )
+![image](https://raw.githubusercontent.com/zhongguoming/Text-display-gradually/441db0297688eae068c6744c9a265e7626b66571/TextDisplay/TextDisplay.gif)
